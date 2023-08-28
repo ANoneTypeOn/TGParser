@@ -1,0 +1,4 @@
+telethon>=1.14.0
+configparser>=5.0.0
+json>=3.17.0
+datetime>=4.3
